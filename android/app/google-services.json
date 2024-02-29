@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112443059158",
+    "project_id": "cookie-jar-f77ca",
+    "storage_bucket": "cookie-jar-f77ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112443059158:android:8a028cfcaf7bb2d9dcd277",
+        "android_client_info": {
+          "package_name": "com.example.cookie_jar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtkE9UUOTRVsYRlafw-U-H7vwKE2Jw89o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
